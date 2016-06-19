@@ -4,21 +4,21 @@ Python libary for getting sever status and get notify your self if servers are i
 
 **Server status :** 
 
-  Memory
+  > Memory
   
-  Network
+  > Network
   
-  Process
+  > Process
   
-  Disk space
+  > Disk space
   
   
 **Applications :**
 
-1) Android application for getting information about your system
+> 1) Android application for getting information about your system
 
-2) Get notification if somthing is worng
+> 2) Get notification if somthing is worng
 
-3) Get current status about system
+> 3) Get current status about system
 
 
