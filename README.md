@@ -19,6 +19,6 @@ Applications:
 
 2) Get notification if somthing is worng
 
-3) Get current status abput system
+3) Get current status about system
 
 
