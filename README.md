@@ -21,6 +21,4 @@ Applications:
 
 3) Get current status abput system
 
-...
-
 
