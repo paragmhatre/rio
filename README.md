@@ -2,7 +2,7 @@
 
 Python libary for getting sever status and get notify your self if servers are in risk.
 
-Server status : 
+**Server status :** 
 
   Memory
   
@@ -13,7 +13,7 @@ Server status :
   Disk space
   
   
-Applications:
+**Applications :**
 
 1) Android application for getting information about your system
 
